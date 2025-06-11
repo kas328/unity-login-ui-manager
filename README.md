@@ -6,7 +6,7 @@ Unity login system with seamless UI navigation and async page/popup management
 ## 🛠 Tech Stack
 - Unity 2021.3+
 - C#
-- UniTask (비동기 처리)
+- UniTask
 - Singleton Pattern
 
 ## ⭐ Key Features

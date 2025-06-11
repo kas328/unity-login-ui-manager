@@ -1,3 +1,3 @@
 # unity-login-ui-manager
 Unity login system with seamless UI navigation and async page/popup management
-<img width="1400" alt="image" src="https://github.com/user-attachments/assets/34407300-2d4f-4db9-910c-44995cc4ec99" />
+![image](https://github.com/user-attachments/assets/f5ac771a-8c5c-4f03-91b0-9b06ed08d111)
